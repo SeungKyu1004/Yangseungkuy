@@ -15,6 +15,8 @@ public class Arraylist02 {
 				rList.add("임꺽정");
 				rList.add("고길동");
 				
+				
+				
 			System.out.println("배열의 크기"+ rList.size());
 			
 			for (int i = 0; i < rList.size(); i++) {
