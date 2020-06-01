@@ -10,6 +10,7 @@ public class Ex02_03 {
 		int result;
 		char k;
 		
+		
 		Scanner s = new Scanner(System.in);
 		System.out.print("첫번째 계산할 값을 입력하세요==> ");
 		a =s.nextInt();
