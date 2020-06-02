@@ -7,6 +7,7 @@ public class Ex04_02 {
 		Scanner s = new Scanner(System.in);
 		int year;
 		
+		
 		System.out.printf("연도를 입력하세요 : ");
 		year = s.nextInt();
 		
