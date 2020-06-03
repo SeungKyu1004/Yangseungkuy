@@ -8,6 +8,7 @@ public class E01_07 {
 		Scanner s = new Scanner(System.in);
 		int a, b;
 		
+		
 		while (true) {
 			System.out.printf("더할 첫 번째 수 입력 : ");
 			a = s.nextInt();
