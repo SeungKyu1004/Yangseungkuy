@@ -7,6 +7,7 @@ public class E01_04 {
 		int evenSum = 0;
 		int oddSum = 0;
 		
+		
 		while(i <= 100) {
 			if(i % 2 == 0) {
 				evenSum += i;
