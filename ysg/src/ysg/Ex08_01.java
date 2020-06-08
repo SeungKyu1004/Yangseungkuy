@@ -9,6 +9,7 @@ public class Ex08_01 {
 		int a, b, c, d;
 		int hap;
 		
+		
 		System.out.printf("1번째 숫자를 입력하세요");
 		a = s.nextInt();
 		System.out.printf("2번째 숫자를 입력하세요");
