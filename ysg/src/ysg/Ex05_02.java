@@ -12,6 +12,7 @@ public class Ex05_02 {
 		
 		for(i = 1; i<=9; i++) {
 			for(k = 2; k <=9; k++) {
+				
 				System.out.printf("%2dX2d=%2d", k, i, k * i);
 			}
 			System.out.printf("\n");
